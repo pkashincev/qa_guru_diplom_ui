@@ -56,10 +56,10 @@ ____
 
 ____
 <a id="jenkins"></a>
-## <img alt="Jenkins" height="25" src="images/logo/Jenkins.svg" width="25"/></a><a name="Сборка"></a>Сборка в [Jenkins](https://jenkins.autotests.cloud/job/032-PavelKashintsev-qa_guru_lesson_14/)</a>
+## <img alt="Jenkins" height="25" src="images/logo/Jenkins.svg" width="25"/></a><a name="Сборка"></a>Сборка в [Jenkins](https://jenkins.autotests.cloud/job/032-PavelKashintsev-qa_guru_diplom_ui/)</a>
 ____
 <p align="center"> 
-<a href="https://jenkins.autotests.cloud/job/032-PavelKashintsev-qa_guru_lesson_14/"><img src="images/screen/jenkins_build.png" alt="Jenkins" width="950"/></a> 
+<a href="https://jenkins.autotests.cloud/job/032-PavelKashintsev-qa_guru_diplom_ui/"><img src="images/screen/jenkins_build.png" alt="Jenkins" width="950"/></a> 
 </p>
 
 
@@ -89,7 +89,7 @@ gradle clean test "-Denv=remote"
 ```
 ___
 <a id="allure"></a>
-## <img alt="Allure" height="25" src="images/logo/Allure.svg" width="25"/></a> <a name="Allure"></a>Allure [отчет](https://jenkins.autotests.cloud/job/032-PavelKashintsev-qa_guru_lesson_14/allure/)</a>
+## <img alt="Allure" height="25" src="images/logo/Allure.svg" width="25"/></a> <a name="Allure"></a>Allure [отчет](https://jenkins.autotests.cloud/job/032-PavelKashintsev-qa_guru_diplom_ui/allure/)</a>
 ___
 
 ### *Основная страница отчёта*
@@ -114,7 +114,7 @@ ___
 
 ___
 <a id="allure-testops"></a>
-## <img alt="Allure" height="25" src="images/logo/Allure2.svg" width="25"/></a>Интеграция с <a target="_blank" href="https://allure.autotests.cloud/project/4739/dashboards">Allure TestOps</a>
+## <img alt="Allure" height="25" src="images/logo/Allure2.svg" width="25"/></a>Интеграция с <a target="_blank" href="https://allure.autotests.cloud/project/4759/dashboards">Allure TestOps</a>
 ____
 ### *Allure TestOps Dashboard*
 
@@ -130,7 +130,7 @@ ____
 
 ___
 <a id="jira"></a>
-## <img alt="Allure" height="25" src="images/logo/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1445">Jira</a>
+## <img alt="Allure" height="25" src="images/logo/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1451">Jira</a>
 ____
 <p align="center"> 
 <img title="Jira" src="images/screen/jira.png" width="850"> 
